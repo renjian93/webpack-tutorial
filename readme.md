@@ -13,4 +13,7 @@ npm run dev
 
 ```
 ##step-1
-###一个简单的webpack demo,直接在对应目录下生成bundle.js
+####一个简单的webpack demo,直接在对应目录下生成bundle.js
+
+##step-2
+#### 多入口，多个模版html生成，图片loader,单独打包到dist目录
