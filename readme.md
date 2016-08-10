@@ -6,7 +6,11 @@
 npm install
 
 # 切换分支
-npm checkout <step-x>
+git checkout <step-x>
+
+# 运行webpack
+npm run dev
 
 ```
-##
+##step-1
+###一个简单的webpack demo,直接在对应目录下生成bundle.js
