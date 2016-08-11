@@ -5,7 +5,6 @@
  */
 var path = require('path');
 var HtmlWebpackPlugin = require('html-webpack-plugin');
-var projectRoot = path.resolve(__dirname);
 module.exports = {
   entry: {
     demo1: './src/demo1/entry',
