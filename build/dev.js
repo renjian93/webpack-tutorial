@@ -5,7 +5,7 @@
  */
 var webpack = require('webpack');
 var webpackPublicConfig = require('../webpack.config');
-
+console.log(process.env);
 webpack(webpackPublicConfig, function (err, stats) {
   if (err) {
     throw err;

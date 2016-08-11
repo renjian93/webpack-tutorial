@@ -14,3 +14,6 @@ npm run dev
 
 ##step-2
 #### 多入口，多个模版html生成，图片loader,单独打包到dist目录
+
+##step-3
+#### 代码分割，异步加载

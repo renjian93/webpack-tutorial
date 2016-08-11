@@ -13,7 +13,8 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, './dist'),
     publicPath: '../',
-    filename: '[name]/[name].js'
+    filename: '[name]/[name].js',
+    chunkFilename: 'demo1/[name].js'
   },
   module: {
     loaders: [
